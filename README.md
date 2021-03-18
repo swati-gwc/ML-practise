@@ -22,7 +22,7 @@ Following are the websites that you can refer to start learning Machine Learning
 ### You-Tube Channels for ML
 
 #### In English Language
-1. [Krishna Naik](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)
+1. [Krish Naik](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)
 
 #### In Hindi Language
 1. [5 Minutes Engineering](https://youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P)
