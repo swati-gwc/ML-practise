@@ -6,6 +6,9 @@ This repository consists of Python notebooks that I practised during my college 
 ### Reason to create this repo
 The aim of creating this repository is to help people who are new to ML get some valuable resources and code samples to start with.
 
+### Syllabus of ML
+1. [Syllabus give by my college in B.Tech](https://github.com/swati-gwc/ML-practise/blob/main/MLSyllabus.md)
+
 
 ### Find datasets to practise ML models
 1. [Dataset Search](https://datasetsearch.research.google.com/)
@@ -15,9 +18,16 @@ The aim of creating this repository is to help people who are new to ML get some
 1. [Kaggle](https://www.kaggle.com/)
 
 ### Websites to learn ML
-Following are the websites that you can refer to start learning Machine Learning. These are the websites that I personally used to clear my concepts of ML.
+Following are the websites that you can refer to start learning Machine Learning. 
 
 1. [Machine Learning Mastery](https://machinelearningmastery.com)
+2. [Towards Data Science - Medium](https://towardsdatascience.com/)
+3. [Leetcode learn ML-101](https://leetcode.com/explore/learn/card/machine-learning-101/)
+
+### Helpful repo on GitHub for ML
+
+1. [Ml From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
+2. [Data Science and ML from Scratch](https://github.com/hammadshaikhha/Data-Science-and-Machine-Learning-from-Scratch)
 
 ### You-Tube Channels for ML
 
