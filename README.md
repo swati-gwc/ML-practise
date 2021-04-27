@@ -2,12 +2,14 @@
 
 This repository consists of Python notebooks that I practised during my college Machine Learning course. 
 
+### Status of repository 
+Under Construction | Not complete
 
 ### Reason to create this repo
 The aim of creating this repository is to help people who are new to ML get some valuable resources and code samples to start with.
 
 ### Syllabus of ML
-1. [Syllabus give by my college in B.Tech](https://github.com/swati-gwc/ML-practise/blob/main/MLSyllabus.md)
+1. [Syllabus of ML in my college for B. Tech students](https://github.com/swati-gwc/ML-practise/blob/main/MLSyllabus.md)
 
 
 ### Find datasets to practise ML models
