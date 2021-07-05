@@ -8,6 +8,13 @@ Under Construction | Not complete
 ### Reason to create this repo
 The aim of creating this repository is to help people who are new to ML get some valuable resources and code samples to start with.
 
+### Index of this repo
+
+1. Graph Plots (Matpotlib) Practise [[View Notebook](https://github.com/swati-gwc/ML-practise/blob/main/GraphPlotsPractise.ipynb)] 
+2. KNN (k-nearest neighbors) Classification on Redwine Dataset [[View Notebook](https://github.com/swati-gwc/ML-practise/blob/main/MLProject_KNN_Redwine_swati.ipynb)] [[View Dataset](https://github.com/swati-gwc/ML-practise/blob/main/redwine.csv)]
+3. Numpy, Vector and Matrix Practise  [[View Notebook](https://github.com/swati-gwc/ML-practise/blob/main/Numpy_Vector_Matrix.ipynb)] 
+
+
 ### Syllabus of ML
 1. [Syllabus of ML in my college for B. Tech students](https://github.com/swati-gwc/ML-practise/blob/main/MLSyllabus.md)
 
