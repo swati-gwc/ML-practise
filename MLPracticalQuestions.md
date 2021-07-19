@@ -10,4 +10,4 @@
 8. Write a program in python for implementing the Neural Network with Backpropagation algorithm for Wheat-seeds dataset.
 9. Write a program in python for implementing the K-Nearest Neighbor algorithm for iris dataset.
 10. Write a program in python for implementing the Decision Tree algorithm for iris dataset.
-11. Write a program in python for implementing the Naive Bayes Algorithm on Zoo dataset.
+
