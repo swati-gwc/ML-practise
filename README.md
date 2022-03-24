@@ -23,6 +23,7 @@ The aim of creating this repository is to help people who are new to ML get some
 
 ### Find datasets to practise ML models
 1. [Dataset Search](https://datasetsearch.research.google.com/)
+2. [UCI Machine Learning Repo](https://archive.ics.uci.edu/ml/index.php)
 
 
 ### Website to compete and boost your skill of ML
